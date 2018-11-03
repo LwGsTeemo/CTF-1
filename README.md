@@ -16,6 +16,11 @@
 
 有些網站沒有上線,請參考世界著名的CTF(Capture the flag)搶旗大賽的超連結
 
+### 世界駭客大賽DEFCON CTF
+```
+Black Hat與Def Con駭客大會，文化與活動性質大不同
+https://www.ithome.com.tw/news/125149
+```
 ### 世界駭客大賽DEFCON CTF台灣戰記
 >* [2018年DEF CON26 CTF: HITCON 第三名+ BFS第十二名](https://www.ithome.com.tw/news/125134)
 >* [2017年DEF CON25 CTF: 第二名](https://www.ithome.com.tw/news/115940)
@@ -23,8 +28,8 @@
 >* [2015年DEF CON23 CTF: 第四名](https://www.ithome.com.tw/news/97998)
 >* [2014年DEF CON22 CTF: 第二名](https://www.ithome.com.tw/news/90031)
 
-### Hitcon世界級資安競賽在臺灣
-
+### Hitcon==世界級資安競賽在臺灣
+>* [第四屆2018年10月](https://www.ithome.com.tw/news/126535)(https://www.ithome.com.tw/news/126535)
 >* [第三屆2017年12月](https://www.ithome.com.tw/news/119379)
 >* [第二屆2016年12月](https://www.ithome.com.tw/news/110013)
 >* [第一屆2015年12月](https://www.ithome.com.tw/news/100782)
@@ -56,6 +61,9 @@
 
 [市民時報](http://citytimes.tw/Newsletter/News.aspx?Iinfo=4&iNumber=24761)
 ```
+
+
+
 
 # CTF
 
