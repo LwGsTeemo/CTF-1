@@ -29,7 +29,7 @@ https://www.ithome.com.tw/news/125149
 >* [2014年DEF CON22 CTF: 第二名](https://www.ithome.com.tw/news/90031)
 
 ### Hitcon==世界級資安競賽在臺灣
->* [第四屆2018年10月](https://www.ithome.com.tw/news/126535)(https://www.ithome.com.tw/news/126535)
+>* [第四屆2018年10月](https://www.ithome.com.tw/news/126535)
 >* [第三屆2017年12月](https://www.ithome.com.tw/news/119379)
 >* [第二屆2016年12月](https://www.ithome.com.tw/news/110013)
 >* [第一屆2015年12月](https://www.ithome.com.tw/news/100782)
