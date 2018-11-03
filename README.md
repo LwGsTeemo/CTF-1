@@ -61,7 +61,15 @@
 
 https://ithelp.ithome.com.tw/users/20107704/ironman/1953
 
-# 臺灣資安市場地圖
+# 資安@臺灣
+```
+臺灣資安市場地圖
+https://www.ithome.com.tw/news/123912
+```
+```
+國家資安人才培訓新戰略，行政院資安學院本周開跑
+https://www.ithome.com.tw/news/126584
+```
 
 # 密碼學
 
@@ -89,9 +97,12 @@ for key in range(255):
 
 # PWN 學習資源
 ```
+
 http://angelboy.tw/
 https://github.com/scwuaptx/HITCON-Training
 
+
+[Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/)
 ```
 
 http://veritas501.space/2017/05/23/HITCON-training%20writeup/
@@ -133,21 +144,19 @@ https://rawsec.ml/en/angstromCTF-2017-write-ups/
     
 
 # Linux-CTF
-
+```
 EasyCTF_2018: Haystack
 
 EasyCTF_2018: Diff
-
 https://writeups.amosng.com/2018/easyctf_2018/forensics/diff_100/
 
 EasyCTF_2018: Remember Me==> Audio Steg
-
 https://writeups.amosng.com/2018/easyctf_2018/forensics/remember-me_130/
 
 
-### EasyCTF_2018: Special Endings
-
+EasyCTF_2018: Special Endings
 https://writeups.amosng.com/2018/easyctf_2018/forensics/special-endings_350/
+```
 
 ### DEFCON oCTF 2016 - ultra_encryption
 
