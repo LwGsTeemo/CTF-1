@@ -1,4 +1,8 @@
-# Linux CTF 1
+### 後續練習
+
+[Bandit](http://overthewire.org/wargames/bandit/)
+
+### Linux CTF 1
 
 你知道如何 安全連線到 遠端伺服器嗎?
 
@@ -14,7 +18,7 @@
 >* https://www.tecmint.com/13-basic-cat-command-examples-in-linux/
 >* http://www.linfo.org/cat.html
 
-# Linux CTF 2
+### Linux CTF 2
 
 
 你知道如何在Linux上找到隱藏檔案嗎?
@@ -33,7 +37,7 @@
 
 >* https://www.tecmint.com/15-basic-ls-command-examples-in-linux/
 
-# Linux CTF 3
+### Linux CTF 3
 
 你知道如何 在Linux上做hex to string嗎?
 
@@ -51,7 +55,7 @@
 
 ```
 
-# Linux CTF 4
+### Linux CTF 4
 
 你知道如何 在Linux上做base64 解碼嗎?
 
@@ -68,7 +72,7 @@
 
 ```
 
-# Linux CTF 5
+### Linux CTF 5
 
 你知道如何 找到 secret秘密檔案嗎?
 
@@ -82,7 +86,7 @@
 >* https://www.binarytides.com/linux-find-command-examples/
 
 
-# Linux CTF 6
+### Linux CTF 6
 
 你知道如何找到Linux執行的服務嗎?
 
@@ -98,7 +102,7 @@ pstree(有空試看看)
 
 ```
 
-# Linux CTF 7
+### Linux CTF 7
 
 你知道如何找到Linux正在執行的網路服務嗎?
 
@@ -116,7 +120,7 @@ netstat (network statistics)
 >* https://www.binarytides.com/linux-netstat-command-examples/
 >* https://www.tecmint.com/20-netstat-commands-for-linux-network-management/
 
-# Linux CTF 8
+### Linux CTF 8
 
 你知道如何在Linux下載並解壓縮ForYou檔案嗎?
 
@@ -143,7 +147,7 @@ http://120.114.62.39/ForYou.tar.gz
 
 
 ```
-# Linux CTF 9
+### Linux CTF 9
 
 你知道如何下載TobeExe檔案並讓他執行嗎?
 
@@ -163,7 +167,7 @@ http://120.114.62.39/ForYou.tar.gz
 
 ```
 
-# Linux CTF 10
+### Linux CTF 10
 
 只有執行檔你如何顯示重要資訊?
 
